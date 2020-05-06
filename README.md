@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vvanovich/ViVa%20tst/_apis/build/status/vivadev.pipelines-java?branchName=master)](https://dev.azure.com/vvanovich/ViVa%20tst/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
